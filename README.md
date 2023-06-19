@@ -3,6 +3,11 @@ Hello all!  My name is Sean Rester, and I've been working in various aspects of 
 
 To get each day started, please log into https://www.github.com and then click the corresponding day link below.
 
+# Getting started
+1. Open the `Chrome` browser
+2. Login to github.com
+3. Navigate to github.com/syntastical/class-java
+
 # Days
 1. [Day #1: Brief history of Java and how/why it’s used, learning our IDE.](day1/index.md)
 1. [Day #2: Variables and control statements.](day2/index.md)
