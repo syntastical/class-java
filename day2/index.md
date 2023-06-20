@@ -1,6 +1,6 @@
 # Comments
 Comments allow us to add non code descriptions and text to help better read the code.  
-```
+```java
 // Single line comment  
 /*  
  \* Multi  
@@ -10,7 +10,7 @@ Comments allow us to add non code descriptions and text to help better read the 
 ``` 
 
 # Variables
-```
+```java
 int iAmInt = 5;  
 boolean iAmBool = true  
 String iAmString = "this is a string"
@@ -38,7 +38,7 @@ if(BOOLEAN_VALUE) {
 ```
 
 ## SWITCH
-```
+```java
 switch(expression){    
     case value1:    
         // code to be executed;    
