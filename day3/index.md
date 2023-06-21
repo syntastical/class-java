@@ -73,7 +73,7 @@ Create a program that collections a list of user inputs for the ad lib below. Ea
 ask the user for the correct input type, like `noun: USER_INPUT_HERE`.  
 
 ## Ad lib text
-Spring is one of the (number) seasons. The other three seasons are (adjective), (noun), and (noun). 
+Spring is one of the (number) seasons. The other three seasons are (noun), (noun), and (noun). 
 Spring happens early in the year if you live (direction) of the equator and late in the year if you
 live (direction) of it. Spring is a time when baby (plural noun; animals) and (plural noun; animals)
 are born. You should carry a (noun) to keep dry, because it tends (verb) more often in spring.
