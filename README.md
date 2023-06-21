@@ -1,3 +1,4 @@
+# github.com/syntastical/class-java
 # Java
 Hello all!  My name is Sean Rester, and I've been working in various aspects of software for around 20 years. During this week wne will be learning about the Java programming language
 

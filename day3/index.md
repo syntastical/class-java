@@ -5,7 +5,7 @@ Two or more strings can be joined together into one new string using the plus si
 
 ```java
 var newString = "Hello " + "world!";
-System.out.println(newString) // Outputs "Hello world!"
+System.out.println(newString); // Outputs "Hello world!"
 ```
 
 ## User input
