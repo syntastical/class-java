@@ -1,4 +1,10 @@
-# github.com/syntastical/class-java
+# Getting started
+1. Login to computer
+2. Open Chrome
+3. Navigate to replit.com
+4. Login if you have an account otherwise create and account using email (not google).
+5. Create a new tab and navigate to github.com/syntastical/class-java
+
 # Java
 Hello all!  My name is Sean Rester, and I've been working in various aspects of software for around 20 years. During this week wne will be learning about the Java programming language
 
