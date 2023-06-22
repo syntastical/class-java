@@ -19,7 +19,7 @@ x /= 2;       // divide by 2
 ```
 
 There is one other shorthand to be aware of, if you want to increment/decrement a variable by 1, you 
-can use `x++` for adding one and `x--` for subtracking 1.
+can use `x++` for adding one and `x--` for subtracting 1.
 
 ## Loops
 Loops are used to repeat a set of actions until some condition is met. There are two types of loops 
