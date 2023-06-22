@@ -38,36 +38,6 @@ myList.get(1) // eggs
 myList.get(2) // bread
 ```
 
-## For loops
-Loops are used to repeat a set of actions until some condition is met. There are two types of for loops in java.  
-
-The first uses a counter and has the syntax `for(INITIALIZER; EVALUATION; INCREMENTER)`.
-```java
-class Main {
-  public static void main(String[] args) {
-      var myList = List.of("a", "b");
-      for (int i = 0; i < 10; i++) {
-          System.out.println(myList.get(i));
-      }
-  }
-}
-```
-
-The second gets items directly from the list and assigns it to a new variable.  The syntax looks like `for(String NEWV_VARIABLE_NAME: LIST_VARIABLE_NAME`.
-```java
-import java.util.*;
-
-class Main {
-  public static void main(String[] args) {
-    var myList = List.of("a", "b");
-    
-    for(String item: myList) {
-      System.out.println(item);
-    }
-  }
-}
-```
-
 # Project: Ad lib
 Create a program that collections a list of user inputs for the ad lib below. Each prompt should 
 ask the user for the correct input type, like `noun: USER_INPUT_HERE`.  
